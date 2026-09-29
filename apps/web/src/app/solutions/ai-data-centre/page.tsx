@@ -52,7 +52,6 @@ export default function AiDataCentrePage() {
 			<ProseSection
 				title={notReseller.title}
 				paragraphs={notReseller.paragraphs}
-				placeholders={notReseller.placeholders}
 				dark
 			/>
 			<ProseSection
