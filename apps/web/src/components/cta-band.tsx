@@ -100,7 +100,7 @@ export function CtaBand({
 						aria-hidden
 					/>
 					<div
-						className="absolute -top-3 left-10 rounded-full bg-cyan px-3 py-1 font-mono-tech text-[11px] font-medium uppercase tracking-[0.18em] text-ink shadow-glow-cyan"
+						className="absolute top-3 left-10 rounded-full bg-cyan px-3 py-1 font-mono-tech text-[11px] font-medium uppercase tracking-[0.18em] text-ink shadow-glow-cyan"
 						aria-hidden
 					>
 						Start here
