@@ -120,17 +120,10 @@ export function SiteFooter() {
 									href="tel:+17328061984"
 									className="text-cream/80 underline-offset-4 transition-colors hover:text-cyan-bright hover:underline"
 								>
-									(405)469 676 6531
+									+1-469-676-6531
 								</a>
 							</li>
-							<li>
-								<a
-									href="tel:+14696766531"
-									className="text-cream/80 underline-offset-4 transition-colors hover:text-cyan-bright hover:underline"
-								>
-									+1-732-806-1984
-								</a>
-							</li>
+							
 							<li>
 								<a
 									href="mailto:sales@technokraftserve.com"

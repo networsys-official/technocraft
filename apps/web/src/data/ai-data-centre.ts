@@ -83,9 +83,9 @@ export const notReseller = {
 	paragraphs: [
 		"TechnoKraft's role in AI infrastructure is engineering, integration, monitoring and managed operations — architecting the network and systems layer around GPU compute, integrating it into a working cluster, and keeping it observable and secure afterwards.",
 	],
-	placeholders: [
-		'[NVIDIA PARTNERSHIP / CERTIFICATION STATUS TO BE CONFIRMED] — NVIDIA and other vendor names on this page describe the technology ecosystem TechnoKraft engineers around, not a claimed formal partnership unless one is confirmed separately.',
-	],
+	// placeholders: [
+	// 	'[NVIDIA PARTNERSHIP / CERTIFICATION STATUS TO BE CONFIRMED] — NVIDIA and other vendor names on this page describe the technology ecosystem TechnoKraft engineers around, not a claimed formal partnership unless one is confirmed separately.',
+	// ],
 };
 
 export const aiDcWhoFor = {
