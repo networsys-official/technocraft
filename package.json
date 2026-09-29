@@ -5,7 +5,7 @@
   "scripts": {
     "setup": "npm install",
     "dev": "npm run dev --prefix apps/web",
-    "build": "next build --no-turbo",
+    "build": "next build",
     "start": "npm run start --prefix apps/web",
     "lint": "npm run lint --prefix apps/web",
     "typecheck": "npm run typecheck --prefix apps/web"
